@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669048081976",
+    "project_id": "push-notification-lab-meneses",
+    "storage_bucket": "push-notification-lab-meneses.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669048081976:android:2a6b00bc9e53023a9de0cd",
+        "android_client_info": {
+          "package_name": "com.example.push_notification_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNaFru6fBr37Wo2guqW-QPqQlWvZwbBr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
